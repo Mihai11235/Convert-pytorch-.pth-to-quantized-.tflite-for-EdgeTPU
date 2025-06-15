@@ -1,4 +1,6 @@
-PILLOW
-torchvision
-torch
-numpy
+PILLOW==9.5.0
+torchvision==0.13.1
+torch==1.12.1
+numpy==1.19.5
+tensorflow==2.4.1
+urllib3==1.26.20
