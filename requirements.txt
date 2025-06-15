@@ -1,0 +1,4 @@
+PILLOW
+torchvision
+torch
+numpy

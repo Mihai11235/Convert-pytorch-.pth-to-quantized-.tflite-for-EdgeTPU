@@ -1,5 +1,11 @@
 # Convert-pytorch-.pth-to-quantized-.tflite-for-EdgeTPU
 
+Load bdd100k dataset from
+
+```
+https://dl.cv.ethz.ch/bdd100k/data/
+```
+
 Prequisites to convert .pth to .tflite
 
 ```

@@ -1,0 +1,7 @@
+.venv_37
+__pycache__
+Dataset_small
+onnx-tensorflow
+smallunet*
+best_smallunet*
+transform_tfFixed_tflite_4.py
